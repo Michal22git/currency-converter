@@ -11,7 +11,7 @@ This script allows converting any amount of a given currency to Polish Zloty (PL
 
 2. Usage:
     ```bash
-    python -m currency_converter [tryb] [ilość] [waluta] [źródło]
+    python -m currency_converter [mode] [amount] [currency] [source]
 
 ### Arguments:
     - mode: Specifies whether the script should run in development mode (database.json) or production (sqlite3).
